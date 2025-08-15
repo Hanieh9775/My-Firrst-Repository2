@@ -17,7 +17,7 @@ HTML_TEMPLATE = """
     {% endif %}
     <form method="get">
         <button type="submit">Get Another Joke</button>
-    </form>
+    
 </body>
 </html>
 """
