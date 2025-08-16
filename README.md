@@ -21,7 +21,7 @@ HTML_TEMPLATE = """
 </body>
 </html>
 """
-
+<head>
 @app.route("/", methods=["GET"])
 def home():
     try:
