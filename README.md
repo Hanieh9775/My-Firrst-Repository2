@@ -6,7 +6,7 @@ app = Flask(__name__)
 HTML_TEMPLATE = """
 <!DOCTYPE html>
 <html lang="en">
-<head>
+
     <meta charset="UTF-8">
     <title>Random Joke App</title>
 </head>
